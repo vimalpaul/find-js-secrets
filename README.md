@@ -103,12 +103,6 @@ Please avoid adding any real credentials or private data to commits.
 
 ---
 
-## Reporting security issues
-
-If you find an actionable vulnerability in this project or discover accidental leakage caused by using this tool, please contact the repository owner at the contact listed on the GitHub profile (or open a private issue / contact via email). See `SECURITY.md` in this repo for more.
-
----
-
 ## License
 
 This project is licensed under the **MIT License** — see `LICENSE` for details.
