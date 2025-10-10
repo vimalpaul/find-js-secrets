@@ -1,6 +1,7 @@
-# find-js-secrets
+# find-js-secrets — JavaScript secret scanner
 
-**find-js-secrets** is an open-source Python utility to discover secrets, API keys, tokens and other sensitive strings in JavaScript assets. It is intended for **authorized security testing and research** only.
+find-js-secrets is a Python tool to scan JavaScript files for secrets, API keys, tokens and other sensitive strings. Useful for security testers, bug bounty hunters and dev teams who want to detect accidental secret leaks.
+
 
 ---
 
