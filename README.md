@@ -31,7 +31,7 @@ Unauthorized scanning or harvesting of data from third-party infrastructure can 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Lamiv1311/find-js-secrets.git
+git clone https://github.com/vimalpaul/find-js-secrets
 cd find-js-secrets
 ```
 
@@ -89,18 +89,6 @@ After a run, the specified `--out` directory contains:
 
 ## False positives & responsible triage
 The scanner uses heuristics and pattern matching. Some matches may be false positives (long base64 strings, vendor keys, placeholders). Treat findings as **suspicious** and validate before taking action.
-
----
-
-## Contributing
-
-Contributions welcome. Suggested workflow:
-1. Fork this repository.
-2. Create a feature branch: `git checkout -b feat/my-change`
-3. Commit changes and push to your fork.
-4. Open a pull request describing the change.
-
-Please avoid adding any real credentials or private data to commits.
 
 ---
 
