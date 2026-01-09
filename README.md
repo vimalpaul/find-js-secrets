@@ -20,7 +20,7 @@ find-js-secrets is a Python tool to scan JavaScript files for secrets, API keys,
 
 ---
 
-##  Important legal & safety notice
+##  Important legal & safety notice .
 
 **Only run this tool against targets you are explicitly authorized to test.**  
 Unauthorized scanning or harvesting of data from third-party infrastructure can be illegal and unethical. If you discover secrets or credentials, follow responsible disclosure procedures for the affected organization.
